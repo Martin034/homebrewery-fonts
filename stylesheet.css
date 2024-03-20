@@ -3,16 +3,16 @@
 
 
 @font-face {
-    font-family: 'viagrande_stripebold';
-    src: url('riogrande_stripedriogrande.woff2') format('woff2');
+    font-family: 'viagrandebold';
+    src: url('riogranderiogrande.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'viagrandebold';
-    src: url('riogranderiogrande.woff2') format('woff2');
+    font-family: 'viagrande_stripebold';
+    src: url('riogrande_stripedriogrande.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
